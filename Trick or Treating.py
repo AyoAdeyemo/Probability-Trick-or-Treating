@@ -12,7 +12,7 @@ if x < 3:
 elif x >= 3:
     y = 2/x 
     z = y * 100
-    print("Percentage of Radomly Picking a Dollar Bill is:", int(z))
+    print("Percentage Probability of Radomly Picking a Dollar Bill is:", int(z))
     
     
 
